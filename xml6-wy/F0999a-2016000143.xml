@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+    <filename>F0999a-2016000143.jpg</filename>
+    <size>
+        <width>640</width>
+        <height>360</height>
+        <depth>3</depth>
+    </size>
+    <imageid>7088</imageid>
+    <object>
+        <name>back_hand_break@occluded</name>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>142</xmin>
+            <ymin>14</ymin>
+            <xmax>203</xmax>
+            <ymax>82</ymax>
+        </bndbox>
+    <objectstate>3</objectstate>
+    </object>
+    <object>
+        <name>front_handbreak@intact</name>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>144</xmin>
+            <ymin>48</ymin>
+            <xmax>195</xmax>
+            <ymax>97</ymax>
+        </bndbox>
+    <objectstate>0</objectstate>
+    </object>
+</annotation>

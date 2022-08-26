@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+    <filename>F0758f-758303045.jpg</filename>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <imageid>5607</imageid>
+    <object>
+        <name>back_hand_break@intact</name>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>274</xmin>
+            <ymin>156</ymin>
+            <xmax>309</xmax>
+            <ymax>197</ymax>
+        </bndbox>
+    <objectstate>0</objectstate>
+    </object>
+    <object>
+        <name>front_handbreak@intact</name>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>250</xmin>
+            <ymin>124</ymin>
+            <xmax>291</xmax>
+            <ymax>193</ymax>
+        </bndbox>
+    <objectstate>0</objectstate>
+    </object>
+</annotation>

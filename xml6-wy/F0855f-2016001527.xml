@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+    <filename>F0855f-2016001527.jpg</filename>
+    <size>
+        <width>640</width>
+        <height>360</height>
+        <depth>3</depth>
+    </size>
+    <imageid>6765</imageid>
+    <object>
+        <name>front_handle@intact</name>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>220</xmin>
+            <ymin>18</ymin>
+            <xmax>276</xmax>
+            <ymax>45</ymax>
+        </bndbox>
+    <objectstate>0</objectstate>
+    </object>
+</annotation>

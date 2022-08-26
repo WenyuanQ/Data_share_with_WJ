@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+    <filename>F0758f-758105973.jpg</filename>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <imageid>5507</imageid>
+    <object>
+        <name>back_handle@intact</name>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>275</xmin>
+            <ymin>157</ymin>
+            <xmax>335</xmax>
+            <ymax>203</ymax>
+        </bndbox>
+    <objectstate>0</objectstate>
+    </object>
+    <object>
+        <name>front_handle@intact</name>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>224</xmin>
+            <ymin>125</ymin>
+            <xmax>253</xmax>
+            <ymax>148</ymax>
+        </bndbox>
+    <objectstate>0</objectstate>
+    </object>
+</annotation>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+    <filename>G0928-2016000069.jpg</filename>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <imageid>7816</imageid>
+    <object>
+        <name>back_hand_break@occluded</name>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>149</xmin>
+            <ymin>32</ymin>
+            <xmax>290</xmax>
+            <ymax>87</ymax>
+        </bndbox>
+    <objectstate>3</objectstate>
+    </object>
+    <object>
+        <name>back_handle@occluded</name>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>188</xmin>
+            <ymin>57</ymin>
+            <xmax>244</xmax>
+            <ymax>80</ymax>
+        </bndbox>
+    <objectstate>3</objectstate>
+    </object>
+    <object>
+        <name>front_handbreak@intact</name>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>137</xmin>
+            <ymin>26</ymin>
+            <xmax>319</xmax>
+            <ymax>120</ymax>
+        </bndbox>
+    <objectstate>0</objectstate>
+    </object>
+</annotation>

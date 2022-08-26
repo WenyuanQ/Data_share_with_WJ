@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+    <filename>F0935f-935104168.jpg</filename>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <imageid>7080</imageid>
+    <object>
+        <name>back_handle@intact</name>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>231</xmin>
+            <ymin>44</ymin>
+            <xmax>297</xmax>
+            <ymax>72</ymax>
+        </bndbox>
+    <objectstate>0</objectstate>
+    </object>
+    <object>
+        <name>front_handbreak@intact</name>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>157</xmin>
+            <ymin>44</ymin>
+            <xmax>190</xmax>
+            <ymax>100</ymax>
+        </bndbox>
+    <objectstate>0</objectstate>
+    </object>
+    <object>
+        <name>front_handle@intact</name>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>212</xmin>
+            <ymin>41</ymin>
+            <xmax>310</xmax>
+            <ymax>96</ymax>
+        </bndbox>
+    <objectstate>0</objectstate>
+    </object>
+</annotation>

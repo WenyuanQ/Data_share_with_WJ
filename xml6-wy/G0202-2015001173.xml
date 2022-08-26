@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+    <filename>G0202-2015001173.jpg</filename>
+    <size>
+        <width>640</width>
+        <height>360</height>
+        <depth>3</depth>
+    </size>
+    <imageid>7259</imageid>
+    <object>
+        <name>back_hand_break@occluded</name>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>188</xmin>
+            <ymin>40</ymin>
+            <xmax>276</xmax>
+            <ymax>101</ymax>
+        </bndbox>
+    <objectstate>3</objectstate>
+    </object>
+    <object>
+        <name>back_handle@occluded</name>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>191</xmin>
+            <ymin>35</ymin>
+            <xmax>254</xmax>
+            <ymax>71</ymax>
+        </bndbox>
+    <objectstate>3</objectstate>
+    </object>
+</annotation>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+    <filename>F0772f-2016000272.jpg</filename>
+    <size>
+        <width>640</width>
+        <height>360</height>
+        <depth>3</depth>
+    </size>
+    <imageid>5964</imageid>
+    <object>
+        <name>back_hand_break@occluded</name>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>226</xmin>
+            <ymin>147</ymin>
+            <xmax>276</xmax>
+            <ymax>188</ymax>
+        </bndbox>
+    <objectstate>3</objectstate>
+    </object>
+    <object>
+        <name>front_handbreak@intact</name>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>203</xmin>
+            <ymin>138</ymin>
+            <xmax>288</xmax>
+            <ymax>190</ymax>
+        </bndbox>
+    <objectstate>0</objectstate>
+    </object>
+    <object>
+        <name>front_handle@intact</name>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>225</xmin>
+            <ymin>158</ymin>
+            <xmax>259</xmax>
+            <ymax>182</ymax>
+        </bndbox>
+    <objectstate>0</objectstate>
+    </object>
+</annotation>

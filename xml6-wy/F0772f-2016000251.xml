@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+    <filename>F0772f-2016000251.jpg</filename>
+    <size>
+        <width>640</width>
+        <height>360</height>
+        <depth>3</depth>
+    </size>
+    <imageid>5951</imageid>
+    <object>
+        <name>back_hand_break@damaged</name>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>227</xmin>
+            <ymin>106</ymin>
+            <xmax>314</xmax>
+            <ymax>162</ymax>
+        </bndbox>
+    <objectstate>1</objectstate>
+    </object>
+</annotation>

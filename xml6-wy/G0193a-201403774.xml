@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+    <filename>G0193a-201403774.jpg</filename>
+    <size>
+        <width>512</width>
+        <height>384</height>
+        <depth>3</depth>
+    </size>
+    <imageid>7198</imageid>
+    <object>
+        <name>back_handle@intact</name>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>217</xmin>
+            <ymin>12</ymin>
+            <xmax>262</xmax>
+            <ymax>41</ymax>
+        </bndbox>
+    <objectstate>0</objectstate>
+    </object>
+    <object>
+        <name>front_handle@intact</name>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>187</xmin>
+            <ymin>1</ymin>
+            <xmax>231</xmax>
+            <ymax>28</ymax>
+        </bndbox>
+    <objectstate>0</objectstate>
+    </object>
+</annotation>

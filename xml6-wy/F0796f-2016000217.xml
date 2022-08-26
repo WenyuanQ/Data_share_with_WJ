@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+    <filename>F0796f-2016000217.jpg</filename>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <imageid>6306</imageid>
+    <object>
+        <name>back_handle@occluded</name>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>213</xmin>
+            <ymin>103</ymin>
+            <xmax>273</xmax>
+            <ymax>147</ymax>
+        </bndbox>
+    <objectstate>3</objectstate>
+    </object>
+</annotation>

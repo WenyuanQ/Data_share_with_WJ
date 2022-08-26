@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+    <filename>F0855f-2016001751.jpg</filename>
+    <size>
+        <width>640</width>
+        <height>360</height>
+        <depth>3</depth>
+    </size>
+    <imageid>6826</imageid>
+    <object>
+        <name>front_handbreak@intact</name>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>190</xmin>
+            <ymin>4</ymin>
+            <xmax>277</xmax>
+            <ymax>43</ymax>
+        </bndbox>
+    <objectstate>0</objectstate>
+    </object>
+</annotation>
