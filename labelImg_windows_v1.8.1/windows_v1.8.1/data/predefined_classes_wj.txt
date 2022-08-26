@@ -1,0 +1,17 @@
+bell@intact
+bell@damaged
+bell@absent
+bell@occluded
+lock_fixed@intact
+lock_fixed@damaged
+lock_fixed@absent
+lock_fixed@occluded
+lock_chain@intact
+lock_chain@damaged
+lock_chain@absent
+lock_chain@occluded
+front_light@intact
+front_light@damaged
+front_light@absent
+front_light@occluded
+ROI

@@ -1,0 +1,17 @@
+back_hand_break@intact
+back_hand_break@damaged
+back_hand_break@absent
+back_hand_break@occluded
+back_handle@intact
+back_handle@damaged
+back_handle@absent
+back_handle@occluded
+front_handbreak@intact
+front_handbreak@damaged
+front_handbreak@absent
+front_handbreak@occluded
+front_handle@intact
+front_handle@damaged
+front_handle@absent
+front_handle@occluded
+ROI

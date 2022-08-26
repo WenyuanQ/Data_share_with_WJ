@@ -1,0 +1,18 @@
+person
+car
+bus
+truck
+bird
+cat
+dog
+bear
+bicycle
+motorcycle
+traffic light
+street sign
+stop sign
+bench
+backpack
+handbag
+is crowd
+ignore

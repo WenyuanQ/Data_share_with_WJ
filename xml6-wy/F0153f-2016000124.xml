@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>F0153f-2016000124.jpg</filename>
+	<path>Z:\weijun\DelftBikes\data\train\F0153f-2016000124.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>427</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>front_handle@damaged</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>12</ymin>
+			<xmax>224</xmax>
+			<ymax>58</ymax>
+		</bndbox>
+	</object>
+</annotation>

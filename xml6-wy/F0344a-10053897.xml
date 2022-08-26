@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>F0344a-10053897.jpg</filename>
+	<path>Z:\weijun\DelftBikes\data\train\F0344a-10053897.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>back_handle@intact</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>292</xmin>
+			<ymin>50</ymin>
+			<xmax>337</xmax>
+			<ymax>69</ymax>
+		</bndbox>
+	</object>
+</annotation>

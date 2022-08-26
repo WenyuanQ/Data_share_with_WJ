@@ -1,0 +1,5 @@
+box
+partially_open_box
+entirely_open_box
+non_parcel_case
+group_of_box
