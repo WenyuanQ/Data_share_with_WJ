@@ -1,10 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?>
 <annotation>
-    <filename>F0855f-2016001984.jpg</filename>
-    <size>
-        <width>640</width>
-        <height>360</height>
-        <depth>3</depth>
-    </size>
-    <imageid>6904</imageid>
+	<folder>train</folder>
+	<filename>F0855f-2016001984.jpg</filename>
+	<path>C:\WeiJun\labelwork\train\F0855f-2016001984.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>front_handle@damaged</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>232</xmin>
+			<ymin>29</ymin>
+			<xmax>265</xmax>
+			<ymax>48</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>back_handle@damaged</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>257</xmin>
+			<ymin>57</ymin>
+			<xmax>283</xmax>
+			<ymax>73</ymax>
+		</bndbox>
+	</object>
 </annotation>
