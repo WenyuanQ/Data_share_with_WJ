@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>48692.jpg</filename>
-	<path>\\10.7.8.58\i58_share_backup\weijun\DelftBikes\data\train\48692.jpg</path>
+	<path>C:\WeiJun\labelwork\train\48692.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>249</xmin>
-			<ymin>79</ymin>
-			<xmax>287</xmax>
-			<ymax>96</ymax>
+			<xmin>250</xmin>
+			<ymin>81</ymin>
+			<xmax>282</xmax>
+			<ymax>98</ymax>
 		</bndbox>
 	</object>
 	<object>
